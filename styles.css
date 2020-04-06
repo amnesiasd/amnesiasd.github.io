@@ -1,0 +1,100 @@
+/* Master styles*/
+body {
+    background-color: #222; 
+    margin: 0px; 
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100px 1fr;
+   
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+}
+
+.right-side {
+    display: flex;    
+}
+
+.left-side {
+    width: 100px;
+    height: 25px;
+}
+
+/* Nav styles*/
+.nav-wrapper > .right-side > div {
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase; 
+}
+
+.nav-link-wrapper {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.4s;
+}
+
+.nav-link-wrapper a {
+    color: #96e300;
+    text-decoration: none;
+    transition: color 0.4s;
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid #96e300;
+}
+
+.nav-link-wrapper a:hover {
+    color: #96e300;
+}
+
+/* Main styles*/
+.content-wrapper {
+    background-image: url(images/barbell-bg-opaque.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 89.5vh;
+    overflow-x: hidden;
+}
+
+
+.content-items-wrapper {  
+    display: flex;  
+    align-items: center;
+    justify-content: right;
+    height: 65vh;
+    width: 100%;
+}
+
+.content-details {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    width: 100%;
+}
+
+.content-img {
+    grid-column: 2/3;
+    display: flex;
+    justify-content: center;
+}
+
+.bg-text-wrapper {
+    display: grid;
+    grid-column: 2/3;
+    text-align: center;
+    background-color: #222;
+    border-radius: 25px;
+    color: rgb(221,221,221);
+}
+
+.block-def {
+    text-transform: uppercase;
+}

@@ -1,0 +1,44 @@
+Todo:
+1. Build out project
+    - create folder structure
+    -add files (html, css, etc.)
+    -connect the files
+
+2. Navbar
+    - logo
+    - About
+    - Coaches (coach logo)
+    - Contact (Phone logo)
+    - Class times ( clock icon)
+    - Pricing ( dollar sign icon)
+
+3. Main page
+    - background image or video
+    - Block logo middle page
+
+4. Block Crossfit
+    - Header - 'CrossFit is many things. For us, it is three things:
+a community, a definition of measurable fitness, and a 
+prescription for attaining that fitness.
+    - 3-columns
+        i.Community  The community that forms around doing CrossFit 
+        workouts is central to CrossFit’s effectiveness.  The shared 
+        experience of intensity and physical improvement, of 
+        overcoming mental and emotional hurdles, of knowing each 
+        other’s pain and cheering each other on…this shared experience 
+        forms an inclusive community.  That’s why we tend to show up 
+        early and stay late.  That’s why on Fridays, there are often 
+        bratwursts and burgers sizzling on a BBQ before the last class 
+        has finished.
+        ii. Fitness Defined  If we are going to claim that CrossFit is an effective fitness program, we had better know what we mean by the word “fitness”. Here’s what we mean: your work capacity across broad time and modal domains.
+
+        Let’s break this down. Work capacity is essentially your ability to move your body weight as well as any external loads (such as a barbell, a medicine ball, your kid, or seven grocery bags). A time domain just means how long you’re going for. Is it a sprint or is it for endurance…or is it somewhere in between? And finally, a modal domain refers to the type of movement. Are we doing a lift or running a mile? Are we doing pull-ups or jumping onto a box?
+
+        So, fitness is a measurement of your ability to move weight for either long or short periods regardless of the kind of movement (or combination of movements). Sounds kind of like being ready for sport or life in general, right?
+
+        In CrossFit, fitness isn’t necessarily about getting that “beach body” or those six-pack abs.  It is about being ready for athletics, adventure, and life in general.  However, if you’ve seen the changes in body composition that our dedicated members have experienced, you’ll know that being fit and looking great tend to go together.
+
+        iii.  The Prescription  CrossFit’s prescription for achieving this fitness is a regimen that focuses on “a broad, general, and inclusive fitness – not only for the unknown, but for the unknowable” (CrossFit Games website).
+
+        We believe in the philosophy that by training for a wide variety of sports and activities, we become more generally fit.  It has been said that life punishes the specialist.  CrossFit’s specialty is not specializing.  Regarding the actual workouts, a phrase you’ll often hear is “constantly varied, high-intensity, functional movement”.
+
